@@ -7,6 +7,7 @@ library(moderndive)
 
 
 
+
 # load in data set
 data(un_member_states_2024)
 
