@@ -1,13 +1,13 @@
-#Collaborative Team Project - Team Squad
-#Members: Stella Wiegert, Jeff Back, Revy Smith, and Thomas Nygaard
+# Collaborative Team Project - Team Squad
+# Members: Stella Wiegert, Jeff Back, Revy Smith, and Thomas Nygaard
+
+@JeffBack51 @RevySmith @stellawiegert-ui @tomnygaard
 
 This is a living document of our collaborative team guidelines on how we will execute this project
 
 [Link to class Textbook](https://moderndive.com/v2/)
 
-##Division of Labour for team:
-
-@JeffBack51 @RevySmith @stellawiegert-ui @tomnygaard
+## Division of Labour for team:
 
 4.1-4.3 Jeff Back creating the README.md
 4.4 Revy reviewing pull request and leaving a comment
@@ -28,7 +28,7 @@ Exercise 7: ALL review
 Submit to Canvas and tagging release (exercise 8): Stella
 
 
-##Timing
+## Timing
 
 - [ ] 4.1-4.3 - EOD 10/6
 - [ ] 4.4 - EOD 10/6
@@ -42,7 +42,7 @@ Submit to Canvas and tagging release (exercise 8): Stella
 - [ ] ALL 6 done by EOD 10/11
 - [ ] Review on 10/12 - 10/13 and submit EOD 10/13
 
-##Communication
+## Communication
 We will communicate over text if any issues come up or we need to update on the statuses of different steps
 We will try to respond to messages with 24 hours but preferably as soon as possible. 
 We will rely exclusively on asynchronus communication and will not hold a regular meeting. 
