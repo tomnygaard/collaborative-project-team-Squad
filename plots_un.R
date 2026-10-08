@@ -22,4 +22,4 @@ un_member_states_2024 %>%
     ylab("Life Expectancy (years, 2022)") +
     labs(color = "Continent", shape = "Continent") +
     theme_minimal() +
-    ggtitle("CHANGE THIS TITLE") #update this line
+    ggtitle("GDP vs Life Expectancy")
