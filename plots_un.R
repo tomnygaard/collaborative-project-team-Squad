@@ -5,7 +5,9 @@
 library(dplyr)
 library(ggplot2)
 library(moderndive)
-#s
+
+
+
 
 # load in data set
 data(un_member_states_2024)
