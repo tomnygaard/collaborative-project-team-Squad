@@ -30,17 +30,17 @@ Submit to Canvas and tagging release (exercise 8): Stella
 
 ## Timing
 
-- [ ] 4.1-4.3 - EOD 10/6
-- [ ] 4.4 - EOD 10/6
-- [ ] ALL of 4 done EOD 10/6
+- [x] 4.1-4.3 - EOD 10/6
+- [x] 4.4 - EOD 10/6
+- [x] ALL of 4 done EOD 10/6
 
-- [ ] 5.1-5.3 - EOD 10/7
-- [ ] 5.4 - EOD 10/7
-- [ ] ALL of 5 done class on 10/8
+- [x] 5.1-5.3 - EOD 10/7
+- [x] 5.4 - EOD 10/7
+- [x] ALL of 5 done class on 10/8
 
 
-- [ ] ALL 6 done by EOD 10/11
-- [ ] Review on 10/12 - 10/13 and submit EOD 10/13
+- [x] ALL 6 done by EOD 10/11
+- [x] Review on 10/12 - 10/13 and submit EOD 10/13
 
 ## Communication
 We will communicate over text if any issues come up or we need to update on the statuses of different steps
